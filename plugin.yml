@@ -1,0 +1,7 @@
+main: es.outlook.liluch.Main
+name: RedCraftingPlugin
+author: Liluch
+version: 1.0
+commands:
+    rc:
+       description: recrafting
